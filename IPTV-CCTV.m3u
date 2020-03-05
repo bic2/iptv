@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1-综合高清
+#EXTINF:-1 ,CCTV-1 综合
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1 ,CCTV2-经济高清
+#EXTINF:-1 ,CCTV-2 财经
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-#EXTINF:-1 ,CCTV4-国际高清
+#EXTINF:-1 ,CCTV-3 综艺
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 ,CCTV-4 国际
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-#EXTINF:-1 ,CCTV5-体育高清
+#EXTINF:-1 ,CCTV-5 体育
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 ,CCTV5+体育高清
+#EXTINF:-1 ,CCTV-5+ 体育
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-#EXTINF:-1 ,CCTV6-电影高清
+#EXTINF:-1 ,CCTV-6 电影
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-#EXTINF:-1 ,CCTV8-电视剧高清
+#EXTINF:-1 ,CCTV-8 电视剧
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-#EXTINF:-1 ,CCTV9-纪实高清
+#EXTINF:-1 ,CCTV-9 纪录
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-#EXTINF:-1 ,CCTV13-新闻高清
+#EXTINF:-1 ,CCTV-13 新闻
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 ,CGTV
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
@@ -25,55 +27,55 @@ http://liveali.ifeng.com/live/FHZW.m3u8
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 ,CCTV 4K
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-#EXTINF:-1 ,北京卫视高清
+#EXTINF:-1 ,北京卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
-#EXTINF:-1 ,东方卫视高清
+#EXTINF:-1 ,东方卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-#EXTINF:-1 ,湖南卫视高清
+#EXTINF:-1 ,湖南卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-#EXTINF:-1 ,江苏卫视高清
+#EXTINF:-1 ,江苏卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-#EXTINF:-1 ,浙江卫视高清
+#EXTINF:-1 ,浙江卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-#EXTINF:-1 ,深圳卫视高清
+#EXTINF:-1 ,深圳卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-#EXTINF:-1 ,北京影视高清
+#EXTINF:-1 ,北京影视
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
-#EXTINF:-1 ,北京体育高清
+#EXTINF:-1 ,北京体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
-#EXTINF:-1 ,北京新闻高清
+#EXTINF:-1 ,北京新闻
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
-#EXTINF:-1 ,北京纪实高清
+#EXTINF:-1 ,北京纪实
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
-#EXTINF:-1 ,北京文艺高清
+#EXTINF:-1 ,北京文艺
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
-#EXTINF:-1 ,安徽卫视高清
+#EXTINF:-1 ,安徽卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-#EXTINF:-1 ,重庆卫视高清
+#EXTINF:-1 ,重庆卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-#EXTINF:-1 ,天津卫视高清
+#EXTINF:-1 ,天津卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
-#EXTINF:-1 ,东南卫视高清
+#EXTINF:-1 ,东南卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
-#EXTINF:-1 ,江西卫视高清
+#EXTINF:-1 ,江西卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
-#EXTINF:-1 ,河北卫视高清
+#EXTINF:-1 ,河北卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-#EXTINF:-1 ,湖北卫视高清
+#EXTINF:-1 ,湖北卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
-#EXTINF:-1 ,辽宁卫视高清
+#EXTINF:-1 ,辽宁卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
-#EXTINF:-1 ,四川卫视高清
+#EXTINF:-1 ,四川卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-#EXTINF:-1 ,山东卫视高清
+#EXTINF:-1 ,山东卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
-#EXTINF:-1 ,广东卫视高清
+#EXTINF:-1 ,广东卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-#EXTINF:-1 ,黑龙江卫视高清
+#EXTINF:-1 ,黑龙江卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
-#EXTINF:-1 ,上海纪实高清
+#EXTINF:-1 ,上海纪实
 rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
-#EXTINF:-1 ,金鹰纪实高清
+#EXTINF:-1 ,金鹰纪实
 rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
-#EXTINF:-1 ,全纪实高清
+#EXTINF:-1 ,全纪实
 rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
