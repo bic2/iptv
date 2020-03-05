@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-综合高清
+#EXTINF:-1 ,CCTV1-综合高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1 ,CCTV-经济高清
+#EXTINF:-1 ,CCTV2-经济高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-#EXTINF:-1 ,CCTV-综艺高清
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1 ,CCTV-国际高清
+#EXTINF:-1 ,CCTV4-国际高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-#EXTINF:-1 ,CCTV-体育高清
+#EXTINF:-1 ,CCTV5-体育高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 ,CCTV5+高清
+#EXTINF:-1 ,CCTV5+体育高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-#EXTINF:-1 ,CCTV-电影高清
+#EXTINF:-1 ,CCTV6-电影高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-#EXTINF:-1 ,CCTV-电视剧高清
+#EXTINF:-1 ,CCTV8-电视剧高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-#EXTINF:-1 ,CCTV-探索高清
+#EXTINF:-1 ,CCTV9-纪实高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-#EXTINF:-1 ,CCTV-13新闻
+#EXTINF:-1 ,CCTV13-新闻高清
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 ,CGTV
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
