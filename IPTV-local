@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 ,北京卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+#EXTINF:-1 ,东方卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 ,湖南卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1 ,江苏卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 ,浙江卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 ,深圳卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 ,北京影视
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
+#EXTINF:-1 ,北京体育
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 ,北京新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
+#EXTINF:-1 ,北京纪实
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
+#EXTINF:-1 ,北京文艺
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
+#EXTINF:-1 ,安徽卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+#EXTINF:-1 ,重庆卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1 ,天津卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
+#EXTINF:-1 ,东南卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1 ,江西卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+#EXTINF:-1 ,河北卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 ,湖北卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+#EXTINF:-1 ,四川卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1 ,山东卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1 ,广东卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1 ,上海纪实
+rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
+#EXTINF:-1 ,金鹰纪实
+rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
+#EXTINF:-1 ,全纪实
+rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
