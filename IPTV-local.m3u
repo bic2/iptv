@@ -13,8 +13,6 @@ http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
 #EXTINF:-1 ,北京影视
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
-#EXTINF:-1 ,北京体育
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
 #EXTINF:-1 ,北京新闻
 rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
 #EXTINF:-1 ,北京纪实
