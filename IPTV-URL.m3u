@@ -37,3 +37,7 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 #EXTINF:-1 ,CCTV-4K 超高清
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 ,凤凰卫视中文台
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 ,凤凰卫视资讯台
+http://liveali.ifeng.com/live/FHZX.m3u8
