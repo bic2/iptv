@@ -15,10 +15,6 @@ http://192.168.50.1:4012/rtp/225.1.1.119:5002
 http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F22656FU3195804BK7804C004I57F7E2B7P2BF4M340E22CV0Z339C9W16267322BDCF99EA&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
 #EXTINF:0,天津卫视
 http://192.168.50.1:4012/rtp/225.1.1.111:5002
-#EXTINF:0,天津新闻
-http://192.168.50.1:4012/rtp/225.1.1.130:5002
-#EXTINF:0,天津体育
-http://192.168.50.1:4012/rtp/225.1.1.122:5002
 #EXTINF:0,湖南卫视
 http://192.168.50.1:4012/rtp/225.1.1.114:5002
 #EXTINF:0,江苏卫视HD
