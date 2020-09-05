@@ -16,7 +16,7 @@ http://192.168.50.1:4012/rtp/225.1.1.119:5002
 #EXTINF:0,上海纪实
 http://192.168.50.1:4012/rtp/225.1.2.25:5002
 #EXTINF:0,CCTV-13新闻
-http://116.95.25.139/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+http://112.132.32.52/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 #EXTINF:0,天津卫视
 http://192.168.50.1:4012/rtp/225.1.1.111:5002
 #EXTINF:0,北京卫视
