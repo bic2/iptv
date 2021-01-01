@@ -21,6 +21,8 @@ http://192.168.50.1:4012/rtp/225.1.1.124:5002
 http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000021303/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000021303&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=2176301598894015407&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYMhh9Ki%2FKi%2FEvYOkQhpanUf7iFEscekgKxr%2F3kNlJnw%2BlGCdqNDKht2qhTDABZ4dW
 #EXTINF:0,CCTV-13
 http://182.138.51.71/PLTV/88888920/224/3221225658/index.m3u8
+#EXTINF:0,第一财经
+http://61.163.111.46/cache.ott.wasulive.itv.cmvideo.cn:80/000000001000/6617141658685778844/index.m3u8?stbId=971a1432ebaf42f59b1b2439fede48e9&channel-id=ystenlive&Contentid=6617141658685778844&authCode=3a&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=6617141658685778844&owchid=ystenlive&owsid=7507481599225387676&AuthInfo=Ibr4t8ktLw%2Fh2Ne4N%2BTOLQlCuCdfkBBun1FTMv%2FNALotGoQ6HTywrRW7ls8Hrzocoj188%2BEPLH7y3EtjWiAkhDb5%2F%2B7TGEV77HFTg9BTBxZRZzzG0QGLJJyODdfc6bUT
 #EXTINF:0,天津卫视
 http://192.168.50.1:4012/rtp/225.1.1.111:5002
 #EXTINF:0,北京卫视
