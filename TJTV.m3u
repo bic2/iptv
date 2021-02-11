@@ -7,10 +7,12 @@ http://192.168.50.1:4012/rtp/225.1.1.133:5002
 http://192.168.50.1:4012/rtp/225.1.1.150:5002
 #EXTINF:0,CCTV-5体育
 http://192.168.50.1:4012/rtp/225.1.1.160:5002
-#EXTINF:0,CCTV5+ 
+#EXTINF:0,CCTV-5+ 
 http://192.168.50.1:4012/rtp/225.1.1.121:5002
 #EXTINF:0,北京体育
 http://192.168.50.1:4012/rtp/225.1.2.30:5002
+#EXTINF:0,CCTV-4K
+http://120.221.66.110/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
 #EXTINF:0,CCTV-9纪录
 http://192.168.50.1:4012/rtp/225.1.1.119:5002
 #EXTINF:0,上海纪实
