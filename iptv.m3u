@@ -11,7 +11,7 @@ http://192.168.50.1:4012/rtp/225.1.1.150:5002
 http://192.168.50.1:4012/rtp/225.1.1.160:5002
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ 
 http://192.168.50.1:4012/rtp/225.1.1.121:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京体育
+#EXTINF:-1 tvg-id="" tvg-name="北京体育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京体育
 http://192.168.50.1:4012/rtp/225.1.2.30:5002
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://120.221.66.110/livews-4k.5club.cctv.cn/live/4K1218.stream/playlist.m3u8
