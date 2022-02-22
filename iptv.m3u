@@ -23,8 +23,6 @@ http://192.168.50.1:4012/rtp/225.1.1.119:5002
 http://192.168.50.1:4012/rtp/225.1.1.111:5002
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://192.168.50.1:4012/rtp/225.1.1.113:5002
-#EXTINF:-1 tvg-id="" tvg-name="北京体育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京体育
-http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",上海纪实
 http://192.168.50.1:4012/rtp/225.1.2.25:5002
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实
