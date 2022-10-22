@@ -46,8 +46,8 @@ http://192.168.50.1:4012/rtp/225.1.1.148:5002
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://192.168.50.1:4012/rtp/225.1.1.154:5002
 #EXTINF:-1 tvg-id="112" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视",凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
+http://182.150.115.26:8091/custom23.m3u8
 #EXTINF:-1 tvg-id="113" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视",凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
+http://182.150.115.26:8091/custom22.m3u8
 #EXTINF:-1 tvg-id="114",tvg-name="云课堂" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="云课堂",云课堂
 http://192.168.50.1:4012/rtp/225.1.1.159:5002
