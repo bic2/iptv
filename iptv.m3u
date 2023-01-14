@@ -14,7 +14,7 @@ http://192.168.50.1:4012/rtp/225.1.1.160:5002
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ 
 http://192.168.50.1:4012/rtp/225.1.1.121:5002
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="116" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://192.168.50.1:4012/rtp/225.1.2.237:5002
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
