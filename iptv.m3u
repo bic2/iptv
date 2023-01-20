@@ -15,12 +15,10 @@ http://192.168.50.1:4012/rtp/225.1.1.160:5002
 http://192.168.50.1:4012/rtp/225.1.1.121:5002
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4k-50" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
-http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="116" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://192.168.50.1:4012/rtp/225.1.2.237:5002
-#EXTINF:-1 tvg-id="116" tvg-name="CCTV16-50" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
-http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1 tvg-id="116" tvg-name="CCTV16-50" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-25
+https://live.v1.mk/aishang/cctv164k
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://192.168.50.1:4012/rtp/225.1.1.119:5002
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
